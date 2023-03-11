@@ -1,0 +1,41 @@
+{
+  "name": "react-native-sms-sender",
+  "version": "1.0.0",
+  "description": "A React Native library for Sending an SMS with status listener",
+  "main": "index",
+  "rnpm": {
+    "android": {
+      "packageInstance": "SendSMSPackage.getInstance()"
+    }
+  },
+  "scripts": {
+    "test": "flow"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "sms",
+    "callback",
+    "completed",
+    "react-native-send-sms",
+    "cool"
+  ],
+  "author": {
+    "name": "Alireza Yusefi",
+    "email": "rayansys.rs@gmail.com"
+  },
+  "homepage": "https://github.com/rayansys/react-native-sms-sender",
+  "bugs": {
+    "url": "https://github.com/rayansys/react-native-sms-sender/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rayansys/react-native-sms-sender.git"
+  },
+  "license": "MIT"
+}
